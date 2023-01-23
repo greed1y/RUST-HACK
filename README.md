@@ -144,3 +144,6 @@
 - Skinchanger - Change standard skins to color ones of your choice
 
 - Panic key END for unloading the cheat from the game (can be used to pass checks on servers)
+
+![](https://github.com/GioGiKi/ppp/blob/main/rust1.jpg?raw=true)
+![](https://github.com/GioGiKi/ppp/blob/main/rust2.jpg?raw=true)
